@@ -85,3 +85,15 @@ Interaktywna aplikacja umożliwia:
 - generowanie wykresów ruchu,
 - podgląd tabeli pakietów i przepływów,
 - analizę rozkładów i identyfikację podejrzanych aktywności.
+
+
+
+## Wnioski końcowe
+
+ruch sieciowy wykazuje jasne wzorce związane z portami i protokołami:
+
+- anomalia zwykle pojawia się przy:
+- nagłym wzroście ruchu,
+- rzadkich portach/protokołach,IP generujących niestandardowe obciążenie.
+
+
