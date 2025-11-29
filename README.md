@@ -90,7 +90,7 @@ Interaktywna aplikacja umożliwia:
 
 ## Wnioski końcowe
 
-ruch sieciowy wykazuje jasne wzorce związane z portami i protokołami:
+Ruch sieciowy wykazuje jasne wzorce związane z portami i protokołami:
 
 - anomalia zwykle pojawia się przy:
 - nagłym wzroście ruchu,
