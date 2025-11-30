@@ -80,9 +80,11 @@ W projekcie wykorzystano:
 
 <img width="866" height="665" alt="image" src="https://github.com/user-attachments/assets/32af0444-f37d-4da5-8b15-d18fa2a446bf" />
 
+
 <img width="912" height="781" alt="image" src="https://github.com/user-attachments/assets/fd8d0f88-510e-42c6-afc7-7b706d3ab251" />
 
-<img width="829" height="596" alt="image" src="https://github.com/user-attachments/assets/5baf81f1-a49c-4624-bda8-019df8bb890c" />
+
+<img width="818" height="603" alt="image" src="https://github.com/user-attachments/assets/0247f84b-3563-4603-966f-ff5dc8084fac" />
 
 
 ### 2. Analiza czasowa
@@ -90,7 +92,9 @@ W projekcie wykorzystano:
 - identyfikacja nietypowych skoków ruchu,
 - analiza sezonowości i nagłych zmian.
 
+
 <img width="745" height="619" alt="image" src="https://github.com/user-attachments/assets/d7800422-7dbb-4d98-a48f-aba2022a9682" />
+
 
 
 ### 3. Wykrywanie anomalii
@@ -102,6 +106,8 @@ Zastosowano:
 - wykrywanie potencjalnie podejrzanych protokołów/połączeń.
 
 <img width="797" height="608" alt="image" src="https://github.com/user-attachments/assets/1bdb421f-57eb-48d7-88f5-020730e4c024" />
+
+
 <img width="938" height="715" alt="image" src="https://github.com/user-attachments/assets/5ef51b9b-a822-4919-a623-010cf2955429" />
 
 
@@ -119,9 +125,12 @@ Interaktywna aplikacja umożliwia:
 
 <img width="950" height="571" alt="image" src="https://github.com/user-attachments/assets/3bb3c349-17b8-4f0e-80bd-7878d1a69b92" />
 
+
 <img width="931" height="614" alt="image" src="https://github.com/user-attachments/assets/7fe0815a-72e9-4681-86a7-2602cab8ace8" />
 
+
 <img width="959" height="577" alt="image" src="https://github.com/user-attachments/assets/f1087442-8a79-4808-a758-7962eba29403" />
+
 
 
 ## Wnioski końcowe
