@@ -23,7 +23,7 @@ network-traffic-analysis-anomaly-detection/
 │   └── dokumentacja.pdf  
 ├── src/
 │   ├── network-traffic-analysis
-├── plots/
+└── plots/
     └── example_plot.png
 
 ```
