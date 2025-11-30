@@ -142,3 +142,13 @@ Ruch sieciowy wykazuje jasne wzorce związane z portami i protokołami:
 - rzadkich portach/protokołach,IP generujących niestandardowe obciążenie.
 
 
+
+## Jak uruchomić projekt (krok po kroku)
+1. Pobierz R oraz RStudio **data/sample.csv**
+2. Pobierz plik **data/sample.csv**
+3. Pobierz plik **src/network-traffic-analysis.R**
+4. Zainstaluj wymagane biblioteki
+5. W kodzie (linijka 45) ustaw ścieżkę pliku z danymi pochodzącymi z Wireshark'a:
+   np. **dane <- read.csv("C:/Users/adzik/Desktop/sample.csv")**
+6. Skompiluj kod
+7. W Interfejsie RStudio pojawią sie wygenerowane wykresy oraz otworzy się aplikacja Shiny.
