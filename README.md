@@ -12,7 +12,8 @@ pełny pipeline — od przetwarzania danych, przez analizę statystyczną, po wi
 
 ## Struktura repozytorium
 
-```plaintext network-traffic-analysis-anomaly-detection/
+```plaintext
+network-traffic-analysis-anomaly-detection/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
